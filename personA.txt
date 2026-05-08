@@ -1,0 +1,73 @@
+index: 0, message: I haven’t spoken to you in a while.****I’ve let too much time pass, and the distance between you and I has become too wide.@**%I’m always like this***It’s my fault for waiting till now^**There is so much I want to say to you,I don’t know whe@
+index: 2, message: $How did you get here**
+index: 4, message: #No.**I’m sorry if I sounded rude.*
+index: 6, message: It’s not good to let things end on a sour note, it just leaves a bad taste in your tongue that never goes away.
+index: 8, message: #Don’t make fun of me, I’m being sincere.***%I am sorry, I just felt so stupid for making such a foolish mistake**^@Aren’t you curious?
+index: 10, message: No. Nevermind. Stay here.
+index: 12, message: #It’s fun.*Even if it isn’t fun in the least bit,* it is a good way of passing time.
+index: 14, message: *Someone told me when your heart is full, it feels like you’re chasing all the seconds and minutes in the world, so you’ll feel that way forever and forget that you exist in time.**
+index: 16, message: I can only dream.*%Unless^*Am I interrupting something?*
+index: 18, message: What does nothing constitute?***Come on, I won’t pass judgement.* I hold no authority to do that.*
+index: 20, message: Surely not in a literal sense.* Well**%in the sense that it’s nothing worthy of mentioning.^ #Like what?***Don’t be shy. We are just strangers passing time. Whatever we say exists only in that moment and beyond that it holds no meaning.***
+index: 22, message: #And look at how you have resorted to talking to strangers to help the seconds go by. No person can live on nothing. Someone who claims to do nothing cannot possibly be okay.*@%Have you ever owned plants^*
+index: 24, message: #No wonder nothing phases you. I had a cactus, and I placed it in a glass cupboard. I did water it, but somehow it died two days later.*
+index: 26, message: Have you ever been on a ferris wheel**
+index: 28, message: #You’re lying*
+index: 30, message: *I guess not. I just went on a ferris wheel recently. For no particular reason, Sometimes you just feel like doing so. So I got on, and after one round I didn’t get off. I stayed on it for a long time. It’s worse than a carousel because on a carousel there’s music, and you get to go up and down on the horses, spinning into delirium. On a ferris wheel, you’re stuck in a container and there’s nothing to distract you from the eternally recurring view.*
+index: 32, message: *It just consumes your soul. The same thing over and over again. No good will come when your mind doesn’t get out of the same old thoughts. If I don’t talk to you, you’ll end up like my cacti and die from boredom.*
+index: 34, message: **What would you call it?*
+index: 36, message: That’s an extreme sort of reasoning.*
+index: 38, message: #That’s easy to say.*
+index: 40, message: Talking to you.*
+index: 42, message: #Of?*
+index: 44, message: #No. % I won’t ask for your name.^ %I won’t know your name. I won’t know your age, your birthday, your favourite line in your favourite songs.^**%^The best way to move through life is detachment. Without expectations.*@Hence, I won’t expect anything from this.*What can I expect from someone who’s only characteristic I know of is their voice?****
+index: 46, message: That’s it?**%Don't you think you accept things too easily? I’d expect more resistance from a regular person.^*
+index: 48, message: #Am I imposing on you?***
+index: 50, message: Hey, that pause was a little too long.*
+index: 52, message: Maybe.*Nothing I have never heard before.*
+index: 54, message: #No.*%I’ve got no one to answer to. In that way you and I are very alike. We have too much time on our hands.^**%Schedules are not for the detached. I like doing things on a whim. Keep things out of our expectations.*That’s the way of life.*^%Like the very act of imagining things. I recently lost my sense of smell.*So lots of things kind of lost their taste.^%That's all imagination now. If I close my eyes, I can smell the eggs she would fry on the pan. ^***You know what. Perhaps I joke around too much. You can’t take me too seriously.*
+index: 56, message: I’m convinced your nonchalance is the consequence of your isolating act.@I’ve tried to isolate myself before. I don’t think I’m very good at it.*
+index: 58, message: #I want to do it well, though. By doing nothing, the outcome is nothing, I think of nothing. That would be the most ideal.**But it seems like nothing isn’t something I can do now.*
+index: 60, message: ***Are you at home?*
+index: 62, message: What do you see outside your window?*
+index: 64, message: Well, sometimes I look up to the sky, and think about how someone I know might be under it too.*
+index: 66, message: I’ve always imagined myself doing that,*checking if someone I knew saw the same things as I did.*@*Stupid, isn't it?
+index: 68, message: It's wishful thinking.**Allowing myself to indulge in these foolish thoughts.
+index: 70, message: #Right?Sometimes I feel like time just passes by too fast, so I just sit and stare at the sky, and I’d imagine that I am a free bird flying across that very blue sky.**** @What?*
+index: 72, message: Like someone is watching over us.
+index: 74, message: #I’m not. I’m just a blind believer hoping for something greater than me to exist.@The sky is perfect just for that. %For all things romantic.^ It’s a nice blue, right? I wish I could just extract the blue and keep it with me forever.*
+index: 76, message: What do you think when you see the color blue?*
+index: 78, message: #That’s boring. You lack imagination.*
+index: 80, message: What do you have, some supersonic vision?*
+index: 82, message: You prefer the sea to the sky?*
+index: 84, message: #Continue, I want to hear it.*
+index: 86, message: #Do me a favor and remember that blue. Don’t forget it.@%I can’t let my sky remain inferior to your sea.^***Whenever you don’t reply, I always think I said something that upset you.*
+index: 88, message: It wouldn’t be my first time saying reckless words. I am always grappling at my words because I’m scared of the consequences that result from what I say.*
+index: 90, message: That’s a symptom of an ongoing disease.* It plagues the heart and the heart never recovers. Since your heart is never once what it used to be, it wires your brain differently to adapt to that irreparable change. @*But sometimes it's asymptomatic, so you can never tell that you’re harbouring it.*
+index: 92, message: Maybe**%It depends on the person.^
+index: 94, message: #Ambiguous, definitely. But I don’t talk in riddles. I never intend to mislead. You always understand me in some way or another.* #No.You’ve got it all wrong.*That’s all what you think. I’m bad at reading people. I couldn’t understand what they meant or what they felt.*** No one is an open book.**Aren’t people expecting too much out of you?*
+index: 96, message: There isn’t a need for a reason. A lot of things don’t need reasons to exist. We look for reasons to justify their existence.***
+index: 98, message: That’s why I am enjoying myself now. Time stops when I talk to you.***
+index: 100, message: #I don’t think so.*
+index: 102, message: *Is that so?*
+index: 104, message: Perhaps it's an error in its delivery.***
+index: 106, message: $Memories are funny drugs.**%Don’t you think so? Don’t you start doing things out of nowhere.^*
+index: 108, message: $Oh dear. I guess you're immune to it. I’m jealous, you’re immune to so many things**
+index: 110, message: That’s right. You’ve been blessed with immunity by the heavens.**
+index: 112, message: You’re actually quite optimistic, despite your aloof front.****
+index: 114, message: Is that what it is?*
+index: 116, message: No.*%That’s not it.^**%It’s nice to relish in silence.^*
+index: 118, message: I hope you don’t get mad.*
+index: 120, message: I haven’t slept in a while.* Do you get this feeling? When I close my eyes, something takes over my body.@My body recognizes the need for sleep, but something in my mind takes over and pulls my body out of its slumber.**
+index: 122, message: Maybe.**%Do you want to hear a story, although I’m not really giving you an option to say no.^*
+index: 124, message: I was reading the news this morning, and I looked at the advertisement section. You’d never guess what I found. It was an ad put up by a random person, asking to receive phone calls from anyone. You’d think it was a prank, but I called anyway, because I was curious what’s up with the ad. So I dialed the number
+index: 126, message: Nobody.** Or at least I could hear nothing. I kept hearing this really long beep on my phone. I almost gave up because it just felt so lonely not being able to make a call.**@%Something in me just made me do it again, and so I dial it again, and it went through.^
+index: 128, message: I don’t know. It felt like one of those moments you can never tell if you were dreaming or not.@%I need some advice.^%**Someone delegated me the task to repair something. It was really important to that someone, but the way I saw it was a futile task. It was beyond repair. I have to fix it, but I’m so tired.^
+index: 130, message: #I can’t stop.*
+index: 132, message: Have you heard about the invisible red string?It’s tied to our fingers across horizons and time for people destined to meet.**Of course, not to you and I.@There will come a time where you and I stop talking. This connection will break and I may never find a way back.*
+index: 134, message: You never know. Sometimes the mind has the power to yield imagination into reality. The capabilities of the mind are extremely fatal. The heart will only yearn for what it can’t have.@**It’s not working, isn't it?***That isolation manifesto.**
+index: 136, message: #That's a problem. %We always lie to ourselves. I trick myself into thinking I am alright, but the truth is, I always want what I can’t have.***^ %I think I'm taking up too much of your time.^**
+index: 138, message: I’m defeating the purpose of your isolation.*
+index: 140, message: Do you ever get the feeling of wanting everything and nothing?*
+index: 142, message: ****%Time passing is scary isn’t it.^*@*What I know of you will never last, and my memory may distort it. So all I seek are fleeting moments. I would have experienced the best in that moment.**
+index: 144, message: Something in the fullness of time will eventually lose its weight.*
