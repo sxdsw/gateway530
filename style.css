@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    background-color: rgb(0, 0, 11);
+    color: azure;
+    font-size: clamp(1.5rem, 2.3rem ,2.3rem);;
+    font-family:"Share Tech Mono", serif;
+}
+
+#flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    width: 75%;
+    height: 60vh;
+    align-items: center;
+}
+
+.column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    height: 55%;
+    border-style: dashed;
+    border-color: aquamarine;
+    padding: 1.5rem;
+}
+
+/* left column — text aligns left, bubbles push left */
+.column:first-child {
+    align-items: flex-start;
+    text-align: left;
+    margin-right: 2rem;
+    align-self: flex-start; /* sits at top */
+}
+
+.column:last-child {
+    align-items: flex-end;
+    text-align: left; 
+    align-self: flex-end; /* sits at bottom */
+}
+#chat-container-1{
+    display: flex;
+    height: 80vh;  
+    gap: 0.5rem;
+    width: 90vw;
+    text-align: left; 
+}
+.typewriter-text::after {
+    content: '_';
+    animation: blink 0.7s step-start infinite;
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50%       { opacity: 0; }
+}
+.flicker-out {
+    animation: flicker-out 0.5s ease-out forwards;
+}
+
+@keyframes flicker-out {
+    0%   { opacity: 1; }
+    20%  { opacity: 0; }
+    35%  { opacity: 1; }
+    55%  { opacity: 0; }
+    70%  { opacity: 0.6; }
+    85%  { opacity: 0; }
+    100% { opacity: 0; }
+}
+/* Hide app during intro */
+body.intro-active #app {
+  visibility: hidden;
+}
+
+/* Flash overlay */
+#flash-screen {
+  position: fixed;
+  inset: 0;
+  background: rgba(213, 230, 243, 0.701);
+  opacity: 0;
+  pointer-events: none;
+  z-index: 9999;
+  transition: opacity 0.01s linear;
+}
+
+/* Blink state */
+#flash-screen.visible {
+  opacity: 1;
+}
+
+/* Fade out at end */
+#flash-screen.hide {
+  opacity: 0;
+  transition: opacity 0.1s ease;
+}
+.neon-glow {
+    color: rgba(240, 255, 255, 0.92);
+
+    text-shadow:
+        0 0 1px rgba(196, 227, 224, 0.741),
+        0 0 2px rgba(173, 255, 255, 0.792),
+        0 0 3px rgba(241, 255, 255, 0.928);
+
+    transition:
+        text-shadow 0.4s ease,
+        opacity 0.4s ease;
+}
+.prompt {
+    opacity: 0.9;
+    margin-right: 0.3em;
+    color: azure;
+}
