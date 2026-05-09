@@ -1,0 +1,74 @@
+index: 1, message: Hello***%*I’m not sure what happened, bu^@
+index: 3, message: **Should I go?*
+index: 5, message: It’s okay.**I didn’t think twice about it.*
+index: 7, message: Very neat* and thorough.*
+index: 9, message: About?***
+index: 11, message: *So you just want to keep talking?*
+index: 13, message: I suppose I’m distracted,* time passed in a blink of an eye.*
+index: 15, message: That’s presumptuous of you.**
+index: 17, message: No.** I’ve just been doing nothing.*
+index: 19, message: *I mean,* in the sense that I was really doing nothing.*
+index: 21, message: Well**%in the sense that it’s nothing worthy of mentioning.^*
+index: 23, message: *I’m spending my time* in a period of isolation.**Like the buddhist way. Buddha’s attitude towards everything. Separate self and desire.*
+index: 25, message: Not really.*
+index: 27, message: *Okay*
+index: 29, message: *No.*
+index: 31, message: Does it matter?*
+index: 33, message: #So you didn’t like it.**
+index: 35, message: #I wouldn’t call it boredom.*
+index: 37, message: *Wilful asceticism.*
+index: 39, message: I’m the kind of person who can live alone.*
+index: 41, message: *Maybe you should try doing nothing. Read a book or something.***@%What have you been doing?^*
+index: 43, message: *Aren’t you curious?*
+index: 45, message: #Who I am? *****Hello?*
+index: 47, message: Okay.*
+index: 49, message: I don’t know.****There doesn’t seem to be a real reason to say no.*
+index: 51, message: **No.*
+index: 53, message: You read too much into everything*.
+index: 55, message: *Are you not busy? Like maybe some people you have to meet, or$
+index: 57, message: It’s okay.***
+index: 59, message: That isn’t something one needs to excel at.*
+index: 61, message: #I myself don’t know if I made the right choice.*
+index: 63, message: Yes.*
+index: 65, message: Some buildings.* Trees. Cars.*
+index: 67, message: **That’s romantic.*
+index: 69, message: #No.*I think it’s very sweet.**
+index: 71, message: #It’s a nice sentiment.**%It feels as though time itself has slowed.^*
+index: 73, message: I just saw a bird fly by.*
+index: 75, message: You don’t come across as the religious type.
+index: 77, message: **I suppose.*
+index: 79, message: It’s blue. **That’s all.*
+index: 81, message: But it’s true! *I feel like you are pouting ever so slightly.*
+index: 83, message: Of course not.* **I suppose the sea is better.*
+index: 85, message: When I was young, I lived near the beach, so I always went there whenever I got mad. I would spend all the time I had looking at the sea and forget what made me angry. *****Am I boring you?**
+index: 87, message: *I don’t know what drew me to the sea. I think in knowing the horizon reached corners I could not even fathom existing felt reassuring.** It’s kind of like seeing all I have known probably will not compare to what I felt in that moment.@%*Human kind have explored all above us but have yet to reach the bottom of the earth. There’s something very liberating about that. In the waters I know of a place where nothing can reach me.****^@%But this is all just sentimental talk. Another day I’ll think back to this moment and probably think what a bunch of bull this is.^**
+index: 89, message: #You always overthink things.*
+index: 91, message: *I don’t think I would ever get angry.*
+index: 93, message: Is it deathly?*
+index: 95, message: *You always talk in riddles. I really don’t get you sometimes.*
+index: 97, message: #No.You’ve got it all wrong.*That’s all what you think. I’m bad at reading people. I couldn’t understand what they meant or what they felt.***
+index: 99, message: I don’t think they are wrong,* there has to be a reason why he said so.*
+index: 101, message: **I guess.
+index: 103, message: I really don’t get you, you contradict yourself so much.
+index: 105, message: *Someone I knew told me self perception never aligns with self projection.*
+index: 107, message: My words to you don’t mean the same to me.*At least in my experience, there will always be a dissonance in what we relay to other people.*
+index: 109, message: Your reality simply doesn’t align with another. That’s all there is. Memories just alter what you believe.*
+index: 111, message: My memory isn’t the best, so I tend to forget a lot of things.*
+index: 113, message: Really.*
+index: 115, message: The world has its way of things. There’s a reason why everything happens.***
+index: 117, message: I must be a good actor.*
+index: 119, message: Not at all. I just believe that my reality will take the path it is supposed to take. My reality remains a reality.*********Are you okay? *You don’t have to say anything. It’s okay.*
+index: 121, message: Are you testing me?*
+index: 123, message: I’m not.**I thought you might have drifted off to sleep.*
+index: 125, message: I read somewhere, in a story, that not being able to sleep is akin to living in a world where death doesn't exist.***%Maybe,* when you close your eyes and imagine you see the sky, and know that somewhere, the sky and the sea will meet.*Maybe, that will help you get some sleep.^*
+index: 127, message: Okay.*
+index: 129, message: #Who was it?
+index: 131, message: Do you think it was a prank?
+index: 133, message: Just stop. Is there really meaning in continuing if it cannot be repaired.*
+index: 135, message: I think it’s okay to stop. You’re being too hard on yourself.*%Once you’ve rested you’ll probably see things in a new light.^**
+index: 137, message: What an imagination.*
+index: 139, message: I would say I am satisfied. Isolation has only made me fulfilled more than anything. I have let go of all I have missed and longed for.@**There isn’t anyone waiting for me at the end of the day anymore. I don’t spare him any thought anymore. Is there not enough joy indulging in nothing?*
+index: 141, message: It’s not like that.*
+index: 143, message: #It wasn’t that important.*
+index: 145, message: I never thought about it. I’m trying to remove myself from any wants.*Nothing is certain, because all my present efforts will unfold in ways I can never imagine.*
+index: 147, message: That’s just how it is**,like I can’t remember what we talked about, but I know I enjoyed it.*
